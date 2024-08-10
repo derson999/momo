@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(fond-bleu-degrade-luxe-abstrait-bleu-fonce-lisse-vignette-noire-studio-banner_1258-54581.avif);
+    color: #fff;
+    padding: 3%;
+    height: 105px;
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+}
+
+.hero {
+    text-align: center;
+    padding: 4rem;
+}
+
+.btn-primary {
+    background-color: #fff;
+    color: #458788;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.features {
+    padding: 2rem;
+}
+
+.feature {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.testimonials {
+    background-color: #fff;
+    color: #458788;
+    padding: 2rem;
+    background-size: cover;
+}
